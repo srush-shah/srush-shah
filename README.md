@@ -131,7 +131,7 @@ Here are some ideas to get you started:
 <p align="center">
 	<a href="mailto:srushti1010shah@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/srush-shah"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/srushti-shah-433b93176/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/srushtishah10/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<!--<a href="https://www.facebook.com/priyanshu.bairwa.129794"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="@srushti.10"/></a>
 	<a href="https://instagram.com/theblockedguy"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="@girldevwizard"/></a>-->
 	
