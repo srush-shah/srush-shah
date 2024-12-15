@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 <hr/>
-<h4 align="center">I completed my BE / B.Tech in Information and Communication Technology (ICT). I am intrigued by Machine Learning and Software Development and always will be in love with technology. Enthusiasm and motivation are some of the ingredients of my everyday coffee so buckle up, it's going to be a fun ride.</h4>
+<h4 align="center">Currently pursuing MS in Computer Engineering from New York University in the Big Apple. Previously completed my BE / B.Tech in Information and Communication Technology (ICT). I am intrigued by Machine Learning and Software Development and always will be in love with technology. Enthusiasm and motivation are some of the ingredients of my everyday coffee so buckle up, it's going to be a fun ride.</h4>
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=srush-shah&label=Profile%20views&color=0e75b6&style=plastic" alt="srush-shah" /> </p>
