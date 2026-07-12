@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 <hr/>
-<h4 align="center">Currently pursuing MS in Computer Engineering from New York University in the Big Apple. Previously completed my BE / B.Tech in Information and Communication Technology (ICT). I am intrigued by Machine Learning and Software Development and always will be in love with technology. Enthusiasm and motivation are some of the ingredients of my everyday coffee so buckle up, it's going to be a fun ride.</h4>
+<h4 align="center">Agentic AI | Semantic Databases</h4>
+<h4 align="center">A graduate of MS in Computer Engineering from New York University in the Big Apple. Previously completed my BE / B.Tech in Information and Communication Technology (ICT). Enthusiasm and motivation are some of the ingredients of my everyday coffee so buckle up, it's going to be a fun ride.</h4>
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=srush-shah&label=Profile%20views&color=0e75b6&style=plastic" alt="srush-shah" /> </p>
@@ -102,7 +103,7 @@ Here are some ideas to get you started:
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-  <a href="https://github.com/srush-shah/github-readme-stats"><img alt="Srushti Shah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=srush-shah&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=srush-shah&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github-stats-extended.vercel.app/api?username=srush-shah&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=gruvbox)
   <br/>
   &nbsp;
 </details>
@@ -111,20 +112,13 @@ Here are some ideas to get you started:
   <summary><b>🔥 Streak Stats</b></summary>  
   <br/>
   <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srush-shah&theme=algolia" alt="Srushti Shah Streaks" height="192px"/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=srush-shah&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
   <br/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srush-shah&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Srushti Shah" height="192px"/>
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=srush-shah&layout=donut&langs_count=4&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=srush-shah&layout=donut&langs_count=4&theme=gruvbox)
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/srush-shah"><img alt="Srushti Shah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=srush-shah&custom_title=Srushti%20Shah's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 </details>
 
 <br/>
@@ -132,7 +126,7 @@ Here are some ideas to get you started:
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-	<a href="mailto:srushti1010shah@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="mailto:work.srushtishah@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/srush-shah"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/srushtishah10/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<!--<a href="https://www.facebook.com/priyanshu.bairwa.129794"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="@srushti.10"/></a>
