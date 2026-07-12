@@ -103,7 +103,9 @@ Here are some ideas to get you started:
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
+	  
   [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=srush-shah&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github-stats-extended.vercel.app/api?username=srush-shah&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=gruvbox)
+  
   <br/>
   &nbsp;
 </details>
@@ -112,10 +114,14 @@ Here are some ideas to get you started:
   <summary><b>🔥 Streak Stats</b></summary>  
   <br/>
   <p align="center">
+	  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=srush-shah&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+  
   <br/>
   &nbsp;
+  
   [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=srush-shah&layout=donut&langs_count=4&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=srush-shah&layout=donut&langs_count=4&theme=gruvbox)
+  
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
